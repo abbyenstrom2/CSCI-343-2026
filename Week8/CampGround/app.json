@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "CampGround",
+    "slug": "CampGround",
+    "version": "1.0.0",
+    "orientation": "auto",
+    "icon": "./assets/images/camping-splash.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/camping-splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/camping-splash.jpg",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/camping-splash.jpg"
+    }
+  }
+}

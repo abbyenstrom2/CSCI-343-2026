@@ -1,0 +1,23 @@
+{
+  "name": "campground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^9.2.1",
+    "expo": "~57.0.29",
+    "expo-font": "^57.0.4",
+    "expo-splash-screen": "^57.0.10",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "^5.10.1",
+    "react-native-wheely": "^0.6.0"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
